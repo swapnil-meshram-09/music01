@@ -6,7 +6,7 @@ function App() {
   return (
     <>
     <div className='relative'>
-      <div className=' fixed top-0 left-23 h-7 w-300 bg-black opacity-80'>
+      <div className=' fixed top-0 left-23 h-7 w-200 bg-black opacity-80'>
         <nav className='flex mx-30 gap-20 bg-black opacity-80'>
         <Link href='/' className=''>Home</Link>
         <Link href='/'>Home</Link>
